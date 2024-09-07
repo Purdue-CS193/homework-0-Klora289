@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Heading: list of favorite things about CS 193
+- I like how this class is taught by entirely student TAs
+- I like how this class only meet up once a week
+- I like how this class's homework is due once biweekly
+- I like how this class accepts late assignments
+- I like how this class is easy and informative
